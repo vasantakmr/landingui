@@ -1,6 +1,6 @@
-baseURL = 'https://fireship.io/'
+baseURL = 'https://melodic-dieffenbachia-70a922.netlify.app/'
 languageCode = 'en-us'
-title = 'Fireship'
+title = 'DevSchool'
 enableRobotsTXT = true
 
 [outputs]

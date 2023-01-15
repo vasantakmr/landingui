@@ -1,6 +1,6 @@
 {
-    "name": "Fireship.io",
-    "short_name": "Fireship.io",
+    "name": "DevSchool",
+    "short_name": "DevSchool",
     "description": "Awesome Content for App Developers",
     "start_url": ".",
     "display": "standalone",
