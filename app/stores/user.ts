@@ -34,7 +34,7 @@ export interface UserData {
     }
 }
 
-interface UserProgress {
+export interface UserProgress {
 	xp: number;
 	[key: string]: number;
 }
@@ -51,13 +51,26 @@ let unsubSeats;
 onAuthStateChanged(auth, async (fbUser) => {
 	user.set(fbUser);
 	if (fbUser) {
-		const { doc, onSnapshot, getFirestore } = await import('firebase/firestore');
+		const { doc, getDoc, setDoc, onSnapshot, getFirestore } = await import('firebase/firestore');
 		const firestore = getFirestore();
 		const userRef = doc(firestore, `users/${fbUser.uid}`);
         const progressRef = doc(firestore, `progress/${fbUser.uid}`);
 		const seatsRef = doc(firestore, `seats/${fbUser.uid}`);
 
-		unsubData = onSnapshot(userRef, (snap) => {
+        const userDocSnap = await getDoc(userRef);
+        if(!userDocSnap.exists()) {
+            const { uid, displayName, photoURL, email } = fbUser;
+            setDoc(
+                userRef,
+                {
+                    uid, displayName, photoURL, email,
+                    joined: Date.now()
+                },
+                { merge: true }
+            );
+        }
+
+        unsubData = onSnapshot(userRef, (snap) => {
 			userData.set(snap.data() as UserData);
 			if (snap.data()?.enterprise) {
 				unsubSeats = onSnapshot(seatsRef, (snap) => {

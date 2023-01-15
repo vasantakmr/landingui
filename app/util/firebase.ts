@@ -24,6 +24,7 @@ import {
 } from 'firebase/auth';
 import type { UserCredential } from 'firebase/auth';
 import { initializeAnalytics, logEvent } from 'firebase/analytics';
+import type { UserProgress } from 'app/stores';
 const firebaseApp = initializeApp(config);
 export const auth = getAuth(firebaseApp);
 
@@ -149,14 +150,22 @@ export async function markComplete(route: string, bonus = 0) {
     return;
   }
 
-  const { doc, setDoc, getFirestore } = await import('firebase/firestore');
+  const { doc, getDoc, setDoc, getFirestore } = await import('firebase/firestore');
   const firestore = getFirestore();
 
   const userRef = doc(firestore, `progress/${user.uid}`);
+  const userDocSnap = await getDoc(userRef);
+  let previousXP: number = (userDocSnap.data() as UserProgress)?.xp;
+  console.log(previousXP);
+  if(Number.isNaN(previousXP)) {
+    previousXP = 0;
+  }
+  console.log(previousXP);
   setDoc(
     userRef,
     {
       [route]: 100 + bonus,
+      xp: previousXP + 100 + bonus,
     },
     { merge: true }
   );
