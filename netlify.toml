@@ -1,0 +1,3 @@
+[build]
+  publish = "public"
+  command = "rm -rf public && rm -rf functions && npm run build"
