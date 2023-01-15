@@ -1,12 +1,11 @@
 const config = {
-  apiKey: "AIzaSyBns4UUCKIfb_3xOesTSezA9GbEyuIU7XA",
-  authDomain: "fireship-app.firebaseapp.com",
-  databaseURL: "https://fireship-app.firebaseio.com",
-  projectId: "fireship-app",
-  storageBucket: "fireship-app.appspot.com",
-  messagingSenderId: "176605045081",
-  appId: "1:176605045081:web:d87a63bd943e3032",
-  measurementId: "G-VTJV5CVC6K"
+  apiKey: "AIzaSyAKWCqcAoMDMFNHVMZWPiji3wFy_hcEt1k",
+  authDomain: "gurucodes-67a76.firebaseapp.com",
+  projectId: "gurucodes-67a76",
+  storageBucket: "gurucodes-67a76.appspot.com",
+  messagingSenderId: "227846389254",
+  appId: "1:227846389254:web:294532a86d3ed43cfd0d87",
+  measurementId: "G-4LVPXP1RYE"
 };
 
 import { toast } from '../stores/toast';
