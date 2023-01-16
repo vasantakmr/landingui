@@ -117,7 +117,7 @@
 
       <div class="buy-box green">              
         <p><a href="/pro/" class="text-pro">Upgrade to PRO</a></p>
-        <p class="text-light">Unlock all Fireship content && bonus perks</p>
+        <p class="text-light">Unlock all DevSchool content && bonus perks</p>
       </div>
 
       <modal-action slot="signed-out" name="signin" type="open">

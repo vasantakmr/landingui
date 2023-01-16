@@ -11,7 +11,7 @@
   <google-signin />
   <apple-signin />
   <p class="footer">
-    By signing up, you agree to Fireship's Terms of Service & Privacy Policy.
+    By signing up, you agree to DevSchool's Terms of Service & Privacy Policy.
   </p>
 </modal-dialog>
 

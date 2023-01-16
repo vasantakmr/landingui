@@ -136,7 +136,7 @@ export async function callUserAPI<T>(data: UserAPIData): Promise<T> {
     return res.data as T;
   } catch (error) {
     console.log(error);
-    toast.set({ message: error?.message ?? 'Unknown Error. Contact hello@fireship.io for help', type: 'error' });
+    toast.set({ message: error?.message ?? 'Unknown Error. Contact vasantakmr6@gmail.com for help', type: 'error' });
   }
 }
 
