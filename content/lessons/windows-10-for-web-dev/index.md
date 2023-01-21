@@ -3,7 +3,7 @@ title: Web Development Setup Guide for Windows with Linux (WSL)
 lastmod: 2020-04-05T13:22:42-07:00
 publishdate: 2020-04-03T13:22:42-07:00
 author: Jeff Delaney
-draft: false
+draft: true
 description: The ultimate web developer's environment setup on Windows, including WSL for Linux (Ubuntu)
 tags: 
     - productivity

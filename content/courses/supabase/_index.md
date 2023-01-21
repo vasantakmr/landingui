@@ -4,8 +4,8 @@ title: React Supabase Full Course
 description: Build and deploy a full-stack, production-ready web app with Supabase, React, and Postgres.
 weight: 0
 type: courses
-author: Zack DeRose
-authorname: Zack DeRose
+author: Jeff Delaney
+authorname: Jeff Delaney
 authorbio: Senior Engineering Manager at Nx && that guy from the Supaship YouTube channel
 vimeo: 775081844
 tags:
