@@ -12,7 +12,7 @@ chapter_start: User Auth
 
 Experiment with the live site: https://supaship.io
 
-Sign-up-flow e2e tests in source code: https://github.com/fireship-io/supaship.io/blob/course-end-point/e2e/sign-up-flow.spec.ts
+Sign-up-flow e2e tests in source code: https://github.com/devschool-io/supaship.io/blob/course-end-point/e2e/sign-up-flow.spec.ts
 
 e2e/sign-up-flow.spec.ts:
 

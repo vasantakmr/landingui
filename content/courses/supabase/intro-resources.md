@@ -13,8 +13,8 @@ video_length: 2:03
 
 - Live App: https://supaship.io
 - Demo of our course's endpoint (note: auth will not work): https://supaship-course-demo.netlify.app
-- Github repo: https://github.com/fireship-io/supaship.io
-- Branch showing the end state of our course: https://github.com/fireship-io/supaship.io/tree/course-end-point
+- Github repo: https://github.com/devschool-io/supaship.io
+- Branch showing the end state of our course: https://github.com/devschool-io/supaship.io/tree/course-end-point
 
 ## Official Resources
 
@@ -30,7 +30,7 @@ video_length: 2:03
 ## For Questions
 
 - Zack's Twitter: https://www.twitter.com/zackderose
-- Fireship Discord: https://discord.gg/SpDdJ3qaKK
+- Devschool Discord: https://discord.gg/SpDdJ3qaKK
 - Supaship Live: https://www.youtube.com/@Supaship6000
 
 ## Dependencies

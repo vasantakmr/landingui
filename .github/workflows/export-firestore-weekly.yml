@@ -6,8 +6,8 @@ on:
     - cron:  '0 0 * * 0'
 
 env:
-  PROJECT_ID: fireship-app
-  BUCKET: gs://fireship-app-backups
+  PROJECT_ID: devschool-app
+  BUCKET: gs://devschool-app-backups
   
 jobs:
   backup:

@@ -9,7 +9,7 @@ emoji: 📊
 video_length: 3:40
 ---
 
-Link to final state of the original-ddl.sql: https://github.com/fireship-io/supaship.io/blob/course-end-point/supabase/migrations/20221116184131_original-ddl.sql
+Link to final state of the original-ddl.sql: https://github.com/devschool-io/supaship.io/blob/course-end-point/supabase/migrations/20221116184131_original-ddl.sql
 
 original-ddl.sql:
 

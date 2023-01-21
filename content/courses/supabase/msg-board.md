@@ -14,8 +14,8 @@ Look to future in the live version of the site: https://supaship.io
 
 Links to e2e tests for the message board:
 
-- https://github.com/fireship-io/supaship.io/blob/course-end-point/e2e/message-board.spec.ts
-- https://github.com/fireship-io/supaship.io/blob/course-end-point/e2e/up-voting.spec.ts
+- https://github.com/devschool-io/supaship.io/blob/course-end-point/e2e/message-board.spec.ts
+- https://github.com/devschool-io/supaship.io/blob/course-end-point/e2e/up-voting.spec.ts
 
 e2e/message-board.spec.ts
 

@@ -12,4 +12,4 @@ links:
     portfolio: https://jeffdelaney.me
 ---
 
-Jeff Delaney is a Google Developer Expert and the creator of fireship.io. When not writing code, he is out seeking adventure with his wife and 3 boys. 
+Jeff Delaney is a Google Developer Expert and the creator of devschool.io. When not writing code, he is out seeking adventure with his wife and 3 boys. 

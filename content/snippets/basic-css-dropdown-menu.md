@@ -8,7 +8,7 @@ description: Build a clickable dropdown menu with CSS (no JavaScript)
 tags: 
     - css
 
-code: https://github.com/fireship-io/226-css-theme-toggler
+code: https://github.com/devschool-io/226-css-theme-toggler
 type: lessons
 ---
 

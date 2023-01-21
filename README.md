@@ -1,6 +1,6 @@
-## Fireship
+## Devschool
 
-The [Fireship PRO](https://fireship.io) course platform frontend built with Svelte, Tailwind, Hugo, Firebase, & Flamethrower. 
+The [Devschool PRO](https://devschool.io) course platform frontend built with Svelte, Tailwind, Hugo, Firebase, & Flamethrower. 
 
 ## Contributing
 

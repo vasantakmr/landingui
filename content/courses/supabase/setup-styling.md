@@ -12,7 +12,7 @@ video_length: 1:45
 
 - Tailwind Docs: https://tailwindcss.com/
 - Tailwind installation docs: https://tailwindcss.com/docs/installation
-- output.css file (if you want to just use my pre-built styles): https://github.com/fireship-io/supaship.io/blob/course-end-point/output.css
+- output.css file (if you want to just use my pre-built styles): https://github.com/devschool-io/supaship.io/blob/course-end-point/output.css
 
 Command to watch source code to update tailwind styles:
 
