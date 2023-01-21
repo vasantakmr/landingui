@@ -1,5 +1,5 @@
 ---
-title: Row Level Security
+title: Wrapper Classes
 description: What is Row Level Security in Supabase?
 weight: 23
 lastmod: 2022-11-20T10:23:30-09:00

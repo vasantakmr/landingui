@@ -1,5 +1,5 @@
 ---
-title: Generate Types
+title: Java 8 Features
 description: How to generate TypeScript types from your Supabase database
 weight: 25
 lastmod: 2022-11-20T10:23:30-09:00

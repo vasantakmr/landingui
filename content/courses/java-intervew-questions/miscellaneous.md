@@ -1,5 +1,5 @@
 ---
-title: Message Board Tests
+title: Miscellaneous
 description: Add end-to-end tests for the message board
 weight: 40
 lastmod: 2022-11-20T10:23:30-09:00
@@ -7,7 +7,7 @@ draft: false
 vimeo: 773629709
 emoji: 💭
 video_length: 1:45
-chapter_start: Message Board
+chapter_start: Miscellaneous
 ---
 
 Look to future in the live version of the site: https://supaship.io

@@ -1,5 +1,5 @@
 ---
-title: Meet Zack
+title: Multi Threading
 description: Get to know your instructor Zack DeRose
 weight: 22
 lastmod: 2022-11-20T10:23:30-09:00

@@ -1,5 +1,5 @@
 ---
-title: Enable RLS
+title: Collection Framework
 description: How to enable Row Level Security
 weight: 24
 lastmod: 2022-11-20T10:23:30-09:00
