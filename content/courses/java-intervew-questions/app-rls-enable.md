@@ -1,7 +1,7 @@
 ---
 title: Enable RLS
 description: How to enable Row Level Security
-weight: 23
+weight: 24
 lastmod: 2022-11-20T10:23:30-09:00
 draft: false
 vimeo: 773628507

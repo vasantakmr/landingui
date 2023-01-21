@@ -1,7 +1,7 @@
 ---
 title: Generate Types
 description: How to generate TypeScript types from your Supabase database
-weight: 24
+weight: 25
 lastmod: 2022-11-20T10:23:30-09:00
 draft: false
 vimeo: 773628675

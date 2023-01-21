@@ -1,5 +1,5 @@
 ---
-title: Supabase Primer
+title: Methods/Functions 
 description: Breakdown of core Supabase features and concepts
 weight: 5
 lastmod: 2022-11-20T10:23:30-09:00

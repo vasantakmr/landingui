@@ -1,5 +1,5 @@
 ---
-title: Playwright E2E Testing
+title: String Handling
 description: Configure Playwright for end-to-end testing
 weight: 12
 lastmod: 2022-11-20T10:23:30-09:00

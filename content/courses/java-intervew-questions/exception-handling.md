@@ -1,5 +1,5 @@
 ---
-title: Database Tables
+title: Exception Handling
 description: Add a database table for usernames
 weight: 21
 lastmod: 2022-11-20T10:23:30-09:00

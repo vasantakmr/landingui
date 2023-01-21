@@ -1,5 +1,5 @@
 ---
-title: Styling
+title: Object Oriented Principles
 description: How to implement Tailwind or add your own Styles
 weight: 13
 lastmod: 2022-11-20T10:23:30-09:00

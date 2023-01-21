@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Variables and Data Types
 description: Resources for the course
 weight: 2
 lastmod: 2022-11-20T10:23:30-09:00

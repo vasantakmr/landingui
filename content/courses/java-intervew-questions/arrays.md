@@ -1,5 +1,5 @@
 ---
-title: Supabase CLI
+title: Arrays
 description: Create and configure a new Supabase project with the CLI
 weight: 11
 lastmod: 2022-11-20T10:23:30-09:00

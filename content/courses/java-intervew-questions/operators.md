@@ -1,5 +1,5 @@
 ---
-title: Supabase in 100 Seconds
+title: Operators
 description: A quick introduction into the Supabase platform
 weight: 3
 lastmod: 2022-11-20T10:23:30-09:00

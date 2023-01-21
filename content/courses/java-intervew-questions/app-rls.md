@@ -1,7 +1,7 @@
 ---
 title: Row Level Security
 description: What is Row Level Security in Supabase?
-weight: 22
+weight: 23
 lastmod: 2022-11-20T10:23:30-09:00
 draft: false
 vimeo: 773628343

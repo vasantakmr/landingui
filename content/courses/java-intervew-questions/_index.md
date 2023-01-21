@@ -19,7 +19,7 @@ stack:
   - postgres
 ---
 
-**The Supabase Course** is a project-based course that builds a Reddit-inspired web app from scratch with Supabase, PostgreSQL, and React.
+**The Java Interview Questions** is a  project-based course that builds a Reddit-inspired web app from scratch with Supabase, PostgreSQL, and React.
 
 ## 🦄 What will I learn?
 

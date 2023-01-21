@@ -1,5 +1,5 @@
 ---
-title: Frontend Setup
+title: 'Loops: For, While, Do While'
 description: Setup the clientside app with Vite and React
 weight: 10
 lastmod: 2022-11-20T10:23:30-09:00
