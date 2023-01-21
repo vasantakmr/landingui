@@ -1,5 +1,5 @@
 ---
-title: Connect to Supabase
+title: JDK JRE JVM
 description: How to connect to the Supabase client
 weight: 21
 lastmod: 2022-11-20T10:23:30-09:00

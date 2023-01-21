@@ -1,12 +1,12 @@
 ---
 lastmod: 2022-11-11T10:23:30-09:00
-title: React Supabase Full Course
+title: Java Interview Questions
 description: Build and deploy a full-stack, production-ready web app with Supabase, React, and Postgres.
 weight: 0
 type: courses
-author: Jeff Delaney
-authorname: Jeff Delaney
-authorbio: Senior Engineering Manager at Nx && that guy from the Supaship YouTube channel
+author: Vasanta Kumar
+authorname: Vasanta Kumar
+authorbio: Software Developer at KLA Corporation
 vimeo: 775081844
 tags:
   - react

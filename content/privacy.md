@@ -11,7 +11,7 @@ DevSchool.io ("DevSchool" "we" or "us") is committed to protecting your privacy.
 If you do not consent to the collection and use of information from or about you in accordance with this Privacy Policy, then you are not permitted to use Devschool or any services provided on https://devschool.io.
 
 ### Applicable Law
-Devschool is headquartered in the United States of America in the state of Nevada. By viewing any content or otherwise using the services offered by Devschool, you consent to the transfer of information to the United States of America to the extent applicable, and the collection, storage, and processing of information under Nevada, USA law.
+Devschool is headquartered in the India in the state of Andhra Pradesh. By viewing any content or otherwise using the services offered by Devschool, you consent to the transfer of information to the India to the extent applicable, and the collection, storage, and processing of information under Indian law.
 
 ### Information We Collect
 Information you Submit: We store information you provide on this site via forms, surveys, or any other interactive content. This information commonly includes, but is not limited to, name, mailing address, email address, and uploaded files.

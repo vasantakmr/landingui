@@ -2,7 +2,7 @@
 title: Web Development Setup Guide for Windows with Linux (WSL)
 lastmod: 2020-04-05T13:22:42-07:00
 publishdate: 2020-04-03T13:22:42-07:00
-author: Jeff Delaney
+author: Vasanta Kumar
 draft: true
 description: The ultimate web developer's environment setup on Windows, including WSL for Linux (Ubuntu)
 tags: 
@@ -195,7 +195,7 @@ If you work with Github it can be useful to cache your git credentials to avoid 
 
 {{< file "terminal" "command line" >}}
 ```text
-git config --global user.name "Jeff Delaney"
+git config --global user.name "Vasanta Kumar"
 git config --global user.email "hello@devschool.io"
 git config --global credential.helper cache --timeout=3600
 ```

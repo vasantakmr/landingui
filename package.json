@@ -16,7 +16,7 @@
     "deploy": "firebase deploy --debug --token \"$FIREBASE_TOKEN\" --only hosting"
   },
   "keywords": [],
-  "author": "Jeff Delaney",
+  "author": "Vasanta Kumar",
   "license": "ISC",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.1",
