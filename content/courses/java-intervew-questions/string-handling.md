@@ -1,6 +1,6 @@
 ---
 title: String Handling
-description: Configure Playwright for end-to-end testing
+description: strings
 weight: 12
 lastmod: 2022-11-20T10:23:30-09:00
 draft: false
@@ -8,88 +8,41 @@ vimeo: 773632607
 emoji: 🎭
 video_length: 2:56
 quiz: true
+free: true
 ---
 
-<quiz-modal options="Runs in the browser:uses async/await:runs tests in parallel:can help reduce bugs" answer="Runs in the browser" prize="5">
-  <h6>What is the main way End-to-End testing differs from unit testing?</h6>
+<quiz-modal options="96:97:98:99" answer="98" prize="5">
+  <h6>What is 'b' ASCII Code?</h6>
 </quiz-modal>
 
-Playwright docs: https://playwright.dev/docs/intro
+#### 1) What is ASCII Code?
 
-To initialize playwrigh in your repo:
+ASCII stands for American Standard code for Information Interchange. ASCII character range is 0 to 255. 
+We can’t add more characters to the ASCII Character set. ASCII character set supports only English. That 
+13
+is the reason, if we see C language we can write c language only in English we can’t write in other 
+languages because it uses ASCII code.
 
-```bash
-yarn create playwright
-```
+#### 2) What is Unicode ?
 
-Updates to the playwright.config.ts file:
+Unicode is a character set developed by Unicode Consortium. To support all languages in the world Java 
+supports Unicode values. Unicode characters were represented by 16 bits and its character range is 0-
+65,535.
+Java uses ASCII code for all input elements except for Strings,identifiers, and comments. If we want to 
+use telugu we can use telugu characters for identifiers.We can enter comments in telugu.
 
-```ts
-const config = {
-  // only change the following properties
-  webServer: {
-    command: "yarn dev",
-    port: 1337, // should match the port you gave in our vite.config file
-    reuseExisitingServer: true,
-  },
-  fullyParallel: false,
-  projects: [
-    {
-      name: "Google Chrome",
-      use: {
-        channel: "chrome",
-      },
-    },
-    {
-      name: "Mobile Chrome",
-      use: {
-        ...devices["Pixel 5"],
-      },
-    },
-  ],
-};
-```
+#### 3) Difference between Character Constant and String Constant in java ?
 
-Installing the `detect-port` package:
+Character constant is enclosed in single quotes. String constants are enclosed in double quotes. Character 
+constants are single digit or character. String Constants are collection of characters.
 
-```bash
-yarn add -D detect-port
-```
+Ex :’2’, ‘A’
+Ex : “Hello World”
 
-e2e/utils.ts:
+#### 4) What are constants and how to create constants in java?
 
-```ts
-import { execSync } from "child_process";
-import detect from "detect-port";
+Constants are fixed values whose values cannot be changed during the execution of program. We create 
+constants in java using final keyword.
 
-export async function setupE2eTest() {
-  await startSupabase();
-  reseedDb();
-}
-
-async function startSupabase() {
-  const port = await detect(64321);
-  if (port !== 64321) {
-    return;
-  }
-  console.warn("Supabase not detected - Starting it now");
-  execSync("npx supabase start");
-}
-
-function reseedDb() {
-  execSync(
-    "PGPASSWORD=postgres psql -U postgres -h 127.0.0.1 -p 64322 -f supabase/clear-db-data.sql",
-    // for Windows:
-    // "SET PGPASSWORD=postgres&&psql -U postgres -h 127.0.0.1 -p 54322 -f supabase/clear-db-data.sql"
-    { stdio: "ignore" }
-  );
-}
-```
-
-clear-db-data.sql
-
-```sql
-truncate table auth.users cascade
-```
-
-Playwright VS Code plugin: https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright
+Ex : final int number =10;
+final String str=”java-interview –questions”

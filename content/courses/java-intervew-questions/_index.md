@@ -9,21 +9,21 @@ authorname: Vasanta Kumar
 authorbio: Software Developer at KLA Corporation
 vimeo: 775081844
 tags:
-  - react
-  - supabase
-  - pro
+  - java
+  - interview
+  - questions
 
 stack:
-  - supabase
-  - react
-  - postgres
+  - java
 ---
 
-**The Java Interview Questions** is a  project-based course that builds a Reddit-inspired web app from scratch with Supabase, PostgreSQL, and React.
+**The Java Interview Questions** is a interview-based course that aims to prepare yourself to clear Java Interviews on your first attempt.
+We assure that you will get here the 90% frequently asked interview questions and answers.
+
 
 ## 🦄 What will I learn?
 
-The goal of this course is to provide you with a solid foundation for building fullstack Supabase apps on the web. Here's a quick summary of what you can expect to learn...
+The goal of this course is to provide you with a solid set of 200+ java question bank. Here's a quick summary of what you can expect to learn...
 
 - 👨‍🎤 Master the Basics of Supabase
 - ⚛ Build interactive UI components with React
@@ -34,7 +34,7 @@ The goal of this course is to provide you with a solid foundation for building f
 - 🎭 End-to-end testing with Playwright
 - 🚀 Full-stack deployment breakdown
 
-<div class="row tweet-grid">
+<!-- <div class="row tweet-grid">
 {{< testimonial name="Ant Wilson" handle="@AntWilson" img="ant-wilson.webp" >}}
   While working with Zack on preparing the course, he pointed out some stuff in Supabase that I didn’t even know about!
   This course should be <span class="hi">required viewing</span> for anyone building web apps with Supabase; it makes the flow of development to prod then continuing to ship crystal clear!
@@ -45,7 +45,7 @@ The goal of this course is to provide you with a solid foundation for building f
   This course is a must for anyone building with Supabase. One of the most comprehensive (and entertaining) tutorials on the web. As a bonus, you’ll <span class="hi">learn a tonne</span> of things about Postgres and SQL that are useful beyond Supabase.
   If you’re shipping a production-ready website or application, this course is 100% recommended
 {{< /testimonial >}}
-</div>
+</div> -->
 
 
 ## 🚀 Test drive

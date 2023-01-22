@@ -9,7 +9,7 @@
   <email-signin />
   <p>Or with account:</p>
   <google-signin />
-  <apple-signin />
+  <!-- <apple-signin /> -->
   <p class="footer">
     By signing up, you agree to DevSchool's Terms of Service & Privacy Policy.
   </p>
