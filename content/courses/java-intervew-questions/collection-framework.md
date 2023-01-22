@@ -38,44 +38,40 @@ Here are few basic operations we do on collections :
 #### 3) Difference between collection, Collection and Collections in java?
 
 collection : represent group of objects where objects are stored.
+
 Collection : This is one of the core interface which provides basic functionality for collection.
+
 Collections : Collections contains some utility static methods that operate on collections.
 
 #### 4) Explain about Collection interface in java ?
 
-Collection is the fundamental and root interface in Collections framework. Collection extends Iterable 
-interface and inherits iterator method which returns Iterator object.
+Collection is the fundamental and root interface in Collections framework. Collection extends Iterable interface and inherits iterator method which returns Iterator object.
 
 Signature : 
 public interface Collection<E> extends Iterable<E> {
 }
+
 Methods in Collection interface :
+
 boolean add(E e); Adds an element to the collection. Returns true if element is added.
-boolean remove(Object o);
-Removes an object from collection if that object is present in collection. Return true if matching object is removed from collection.
- boolean 
-addAll(Collection<? 
-extends E> c);
-Adds all the elements specified in the collection to this collection.Returns true 
-if all elements are added.
-boolean 
-removeAll(Collection<?> 
-c);
-Removes all the elements from this collection that are specified in other 
+
+boolean remove(Object o); Removes an object from collection if that object is present in collection. Return true if matching object is removed from collection.
+ 
+addAll(Collection<? extends E> c); Adds all the elements specified in the collection to this collection.Returns true if all elements are added.
+
+boolean removeAll(Collection<?> c); Removes all the elements from this collection that are specified in other 
 collection.Returns true if all the elements are removed.
+
 int size(); Returns number of elements in collection.
-boolean isEmpty(); Checks whether collection contains elements or not. If no elements are 
-present it returns false.
+boolean isEmpty(); Checks whether collection contains elements or not. If no elements are present it returns false.
+
 boolean contains(Object 
-o);
-Checks whether specified object is in collection or not. Return true if object is 
-in collection.
+o); Checks whether specified object is in collection or not. Return true if object is in collection.
+
 Iterator<E> iterator(); Used to iterator over collection. No guarantee on order of elements iterated.
-boolean 
-retainAll(Collection<?> 
-c);
-Removes all the elements which are not in specified collection. Returns only 
-elements specified in collection removing other elements.
+
+boolean retainAll(Collection<?> c); moves all the elements which are not in specified collection. Returns only elements specified in collection removing other elements.
+
 Object[] toArray(); Returns an array of elements in collection.
 
 

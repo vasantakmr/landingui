@@ -28,10 +28,12 @@ The goal of this course is to provide you with a solid set of 200+ java question
 - 🚀 JVM, JRE, JDK
 - 👨‍🎤 Object oriented principles
 -  ⚛  Exception handling
+- 📊 Collection Framework
 - 💪 Multi-threading
 - 👨‍🚀 Access Modifiers
 - 📊 String handling
 - 🎭 Miscellaneous
+
 
 
 <!-- <div class="row tweet-grid">
