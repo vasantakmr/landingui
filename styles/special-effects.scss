@@ -39,6 +39,12 @@
   -webkit-background-clip:text;
 }
 
+.gradient-text-fuchsia {
+  @apply bg-gradient-to-t from-purple-500 to-fuchsia-500;
+  background-clip: text;
+  color:rgba(0,0,0,0);
+  -webkit-background-clip:text;
+}
 
 .gradient-slide {
     @apply bg-gradient-to-r from-orange-500 to-pink-500;
