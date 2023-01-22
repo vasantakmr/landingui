@@ -10,7 +10,7 @@ By accessing this website, you are agreeing to be bound by these website Terms a
 
 ### Content Copyright Policy
 
-The site design, logo and video content subject to copyright © 2022-present | Devschool LLC
+The site design, logo and video content subject to copyright © 2022-present | GuruCodes LLC
 
 User contributions licensed under CC by-SA 3.0 with attribution required.
 
@@ -24,17 +24,17 @@ Lapsed Payment: If payment for a subscription fails, the user account will be do
 
 ### Disclaimer
 
-The materials on the Devschool.io website are provided “as is”. Devschool.io makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Devschool.io does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet website or otherwise relating to such materials or on any sites linked to this site.
+The materials on the GuruCodes.io website are provided “as is”. GuruCodes.io makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, GuruCodes.io does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet website or otherwise relating to such materials or on any sites linked to this site.
 
 ### Limitations
 
-In no event shall devschool.io be liable for any damages (including, without limitation, damages for loss of data or profit or due to business interruption) arising out of the use or inability to use the materials on the Devschool.io Internet site, even if Devschool.io or a Devschool.io authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall gurucodes.io be liable for any damages (including, without limitation, damages for loss of data or profit or due to business interruption) arising out of the use or inability to use the materials on the GuruCodes.io Internet site, even if GuruCodes.io or a GuruCodes.io authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 ### Intellectual Property Rights
 
-Devschool.io is committed to protecting intellectual property rights. Devschool.io strictly follows DMCA guidelines for unauthorized use of copyrighted material. Any inquiries regarding the reproduction of the content on this site must be directed to the party holding the proprietary rights to the specified content. You shall not distribute, publish, transmit, modify, display or create derivative works from material obtained with this service.
-To file a notice of copyright infringement with Devschool.io, you will need to provide a written communication that follows the guidelines set in Section 512(c)(3) of the Digital Millennium Copyright Act (the “DMCA”).
+GuruCodes.io is committed to protecting intellectual property rights. GuruCodes.io strictly follows DMCA guidelines for unauthorized use of copyrighted material. Any inquiries regarding the reproduction of the content on this site must be directed to the party holding the proprietary rights to the specified content. You shall not distribute, publish, transmit, modify, display or create derivative works from material obtained with this service.
+To file a notice of copyright infringement with GuruCodes.io, you will need to provide a written communication that follows the guidelines set in Section 512(c)(3) of the Digital Millennium Copyright Act (the “DMCA”).
 
 ### Governing Law
 
-Any claim relating to the Devschool.io website shall be governed by the laws of the State of Arizona without regard to its conflict of law provisions. General Terms and Conditions apply to the Use of a Web Site.
+Any claim relating to the GuruCodes.io website shall be governed by the laws of the State of Arizona without regard to its conflict of law provisions. General Terms and Conditions apply to the Use of a Web Site.

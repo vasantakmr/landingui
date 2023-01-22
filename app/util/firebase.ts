@@ -54,7 +54,7 @@ export async function signInWithApple() {
 // TODO update url in production
 export async function sendPasswordlessEmail(email: string, url?: string) {
   const actionCodeSettings = {
-    // url: 'https://devschool.io/dashboard',
+    // url: 'https://gurucodes.io/dashboard',
     url: url ?? `${rootURL}/dashboard`, // TODO
     // This must be true.
     handleCodeInApp: true,

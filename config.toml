@@ -1,6 +1,6 @@
 baseURL = 'https://gurucodes.netlify.app/'
 languageCode = 'en-us'
-title = 'DevSchool'
+title = 'GuruCodes'
 enableRobotsTXT = true
 
 [outputs]

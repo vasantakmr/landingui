@@ -196,7 +196,7 @@ If you work with Github it can be useful to cache your git credentials to avoid 
 {{< file "terminal" "command line" >}}
 ```text
 git config --global user.name "Vasanta Kumar"
-git config --global user.email "hello@devschool.io"
+git config --global user.email "hello@gurucodes.io"
 git config --global credential.helper cache --timeout=3600
 ```
 
@@ -207,7 +207,7 @@ The [GitHub CLI](https://cli.github.com/) allows you to manage remote repos, vie
 You now have access to the `gh` command For example, fetch a list of all the issues in a repo: 
 
 ```text
-gh issue list --repo devschool-io/devschool.io
+gh issue list --repo gurucodes-io/gurucodes.io
 ```
 
 ## Docker

@@ -1,6 +1,6 @@
 ---
 title: Get Started
-description: Getting started with DevSchool PRO
+description: Getting started with GuruCodes PRO
 ---
 
 # Getting Starting

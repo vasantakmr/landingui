@@ -1,6 +1,6 @@
 {
-    "name": "DevSchool",
-    "short_name": "DevSchool",
+    "name": "GuruCodes",
+    "short_name": "GuruCodes",
     "description": "Awesome Content for App Developers",
     "start_url": ".",
     "display": "standalone",

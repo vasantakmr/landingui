@@ -1,6 +1,6 @@
-## Devschool
+## GuruCodes
 
-The [Devschool PRO](https://devschool.io) course platform frontend built with Svelte, Tailwind, Hugo, Firebase, & Flamethrower. 
+The [GuruCodes PRO](https://gurucodes.io) course platform frontend built with Svelte, Tailwind, Hugo, Firebase, & Flamethrower. 
 
 ## Contributing
 

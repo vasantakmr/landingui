@@ -1,7 +1,7 @@
 ---
 lastmod: 2022-11-11T10:23:30-09:00
 title: Java Interview Questions
-description: Build and deploy a full-stack, production-ready web app with Supabase, React, and Postgres.
+description: 90% frequently asked interview questions and answers.
 weight: 0
 type: courses
 author: Vasanta Kumar
@@ -25,14 +25,14 @@ We assure that you will get here the 90% frequently asked interview questions an
 
 The goal of this course is to provide you with a solid set of 200+ java question bank. Here's a quick summary of what you can expect to learn...
 
-- 👨‍🎤 Master the Basics of Supabase
-- ⚛ Build interactive UI components with React
-- 💪 Type-safe queries with TypeScript
-- 👨‍🚀 User Authentication and Row-level Security
-- 📊 Data modeling in a relational SQL database
-- 👨‍🔬 Advanced Postgres techniques like Triggers and Functions
-- 🎭 End-to-end testing with Playwright
-- 🚀 Full-stack deployment breakdown
+- 🚀 JVM, JRE, JDK
+- 👨‍🎤 Object oriented principles
+-  ⚛  Exception handling
+- 💪 Multi-threading
+- 👨‍🚀 Access Modifiers
+- 📊 String handling
+- 🎭 Miscellaneous
+
 
 <!-- <div class="row tweet-grid">
 {{< testimonial name="Ant Wilson" handle="@AntWilson" img="ant-wilson.webp" >}}
@@ -48,22 +48,12 @@ The goal of this course is to provide you with a solid set of 200+ java question
 </div> -->
 
 
-## 🚀 Test drive
-
-Visit the demo app and give it a test drive before you enroll. 
-
-<div>
-<a href="https://supaship.io" class="btn btn-green">Supaship Live Demo</a>
-</div>
-
-
-
 ## 🤔 Is this Course Right for Me?
 
 <div class="box box-blue">
-This course is intermediate level 🟦 and expects some experience with React, JavaScript, and general web development. It is fast-paced and similar to my style on YouTube, but far more in-depth and with hands on projects and quizzes. 
+This course is beginner level and expects knowledge on Java  for you to be able to answer questions yourself. If you are a fresher, and looking for a entry to corporate world, this course us a must. It is fast-paced, but far more in-depth and with a variety of interview questions. 
 </div>
 
 ### When was the course last updated?
 
-<span class="tag tag-sm tag-pro">Updated Nov 23rd, 2022</span>
+<span class="tag tag-sm tag-pro">Updated Jan 22rd, 2023</span>

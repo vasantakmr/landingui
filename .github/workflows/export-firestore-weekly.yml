@@ -6,8 +6,8 @@ on:
     - cron:  '0 0 * * 0'
 
 env:
-  PROJECT_ID: devschool-app
-  BUCKET: gs://devschool-app-backups
+  PROJECT_ID: gurucodes-app
+  BUCKET: gs://gurucodes-app-backups
   
 jobs:
   backup:
