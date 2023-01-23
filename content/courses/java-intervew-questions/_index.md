@@ -20,7 +20,6 @@ stack:
 **The Java Interview Questions** is a interview-based course that aims to prepare yourself to clear Java Interviews on your first attempt.
 We assure that you will get here the 90% frequently asked interview questions and answers.
 
-
 ## 🦄 What will I learn?
 
 The goal of this course is to provide you with a solid set of 200+ java question bank. Here's a quick summary of what you can expect to learn...
