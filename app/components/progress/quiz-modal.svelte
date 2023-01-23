@@ -104,11 +104,11 @@
       <p class="green"><span class="gain">+{xpGained} XP</span> {correctMsg}</p>
     {/if}
 
-    <img
+    <!-- <img
       src={`/courses/${courseId}/img/prizes/${prize}.webp`}
       alt="programming meme"
       class:show={isComplete}
-    />
+    /> -->
 
     {#if isComplete}
       <footer>
