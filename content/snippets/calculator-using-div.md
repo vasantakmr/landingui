@@ -16,7 +16,7 @@ type: lessons
 
 
 
-{{< file "calc.html" >}}
+{{< file "html" >}}
 ```html
 <html>
 
