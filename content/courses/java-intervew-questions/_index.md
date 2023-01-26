@@ -57,4 +57,4 @@ This course is beginner level and expects knowledge on Java  for you to be able 
 
 ### When was the course last updated?
 
-<span class="tag tag-sm tag-pro">Updated Jan 22rd, 2023</span>
+<span class="tag tag-sm tag-typescript">Updated Jan 22rd, 2023</span>

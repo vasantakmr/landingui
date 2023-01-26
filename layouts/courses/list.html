@@ -66,7 +66,7 @@
             <img class="w-12 h-12 rounded-full block" src="{{ $authorImg }}" alt="{{ $author.Title }} avatar" />
             <span class="flex flex-col ml-2">
                 <span class="text-lg">Taught by 
-                    <a class="no-underline text-orange-500" href="/contributors/{{ anchorize .Params.author }}/">{{ title (.Params.authorname | default .Params.author) }}</a>
+                    <a class="no-underline gradient-text-fuchsia" href="/contributors/{{ anchorize .Params.author }}/">{{ title (.Params.authorname | default .Params.author) }}</a>
                 </span>
                 <span class="text-sm text-gray4">
                     {{ (.Params.authorbio | default "That guy from the GuruCodes YouTube channel") }}
@@ -74,7 +74,7 @@
             </span>
         </div>
 
-        <div class="mx-auto w-24 h-1 my-24 bg-gradient-to-r from-orange-500 to-pink-500 rounded-full"></div>
+        <div class="mx-auto w-24 h-1 my-24 bg-gradient-to-t from-purple-500 to-fuchsia-500 rounded-full"></div>
 
         {{ if .Params.stack }}
             <div class="text-center mb-10">
@@ -142,13 +142,13 @@
                 <ul class="grid-list pl-0">
                     {{ range $index, $page := .Pages }}
                     <a class="no-underline relative hover:scale-105 transition-transform" href="{{ .RelPermalink }}">
-                        <li class="max-w-sm overflow-hidden shadow-3xl bg-gray6 p-6 rounded-xl">
+                        <li class="max-w-sm h-full overflow-hidden shadow-3xl bg-gradient-to-bl from-blue-700 to-blue-800 p-6 rounded-xl">
                             <span class="absolute -top-2 -left-5 font-display leading-6 text-center text-3xl w-10 h-10 rounded-full p-2">
                                 {{/*  {{ printf "%02d" ( add $index 1 )}}  */}}
                                 {{ $page.Params.emoji }}
                             </span>
                             <h5><span class="gradient-text-fuchsia mb-0">{{ printf "%02d" ( add $index 1 )}}</span> {{ $page.Title }}</h5>
-                            <p class="text-gray3">{{ $page.Description }}</p>
+                            <p class="text-gray2">{{ $page.Description }}</p>
                         </li>
                     </a>
                     {{ end }} 

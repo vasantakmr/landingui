@@ -53,7 +53,7 @@
 
 <style>
   .input {
-    @apply bg-gray7 bg-opacity-30 text-white text-lg block py-3 px-1 w-full border-b-4 border-b-white border-t-0 border-r-0 border-l-0 rounded-none outline-none focus-visible:outline-none;
+    @apply bg-gray7 bg-opacity-30 text-white text-lg block py-3 px-1 w-full border-b-4 border-b-white border-t-0 border-r-0 border-l-0 rounded-md outline-none focus-visible:outline-none;
   }
   label {
     @apply text-gray3 font-bold;
@@ -62,7 +62,7 @@
     @apply border-b-green-500;
   }
   .btn {
-    @apply bg-blue-500 font-sans text-white font-bold inline-block text-center shadow-md px-4 py-3 my-2 w-auto border-none cursor-pointer hover:bg-blue-500;
+    @apply bg-blue-500 font-sans text-white font-bold inline-block text-center shadow-md px-4 py-3 my-2 w-auto border-none cursor-pointer hover:bg-blue-500 rounded-md;
   }
   .disabled {
     @apply opacity-50 cursor-not-allowed;

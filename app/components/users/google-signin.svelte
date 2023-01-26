@@ -24,7 +24,7 @@
 
 <style>
     button {
-        @apply bg-white font-sans text-base text-black inline-flex shadow-md px-4 py-3 my-0.5 w-full cursor-pointer border-none;
+        @apply bg-white font-sans text-base text-black inline-flex shadow-md px-4 py-3 my-0.5 w-full cursor-pointer border-none rounded-md;
     }
     svg {
         @apply w-5 h-5 mr-2 relative top-1;
