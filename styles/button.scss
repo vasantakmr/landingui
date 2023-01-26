@@ -65,7 +65,7 @@
 }
 
 .btn-purple {
-    @apply bg-purple-500 text-white active:bg-purple-700;
+    @apply bg-purple-600 text-white active:bg-purple-800;
     &.glow {
         @apply hover:drop-shadow-[0_0_5px_rgba(168,85,247,0.5)];
     }

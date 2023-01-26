@@ -1,18 +1,12 @@
 // Top navbar gif background
 
 .logo-gif {
-    #logoBg{
-        display: none;
+  &:hover {
+    #logo {
+      filter: drop-shadow(0 0 10px #7a0eff) 
     }
-    &:hover {
-        #logo {
-            display: none;
-        }
     
-        #logoBg{
-            display: block;
-        }
-    }
+  }
 
 }
 
