@@ -52,9 +52,9 @@ The goal of this course is to provide you with a solid set of 200+ java question
 ## 🤔 Is this Course Right for Me?
 
 <div class="box box-blue">
-This course is beginner level and expects knowledge on Java  for you to be able to answer questions yourself. If you are a fresher, and looking for a entry to corporate world, this course us a must. It is fast-paced, but far more in-depth and with a variety of interview questions. 
+This course is beginner level and expects knowledge on Java for you to be able to answer questions yourself. If you are a fresher, and looking for an entry to corporate world, this course is a must. It is fast-paced, but far more in-depth and with a variety of interview questions. 
 </div>
 
 ### When was the course last updated?
 
-<span class="tag tag-sm tag-typescript">Updated Jan 22rd, 2023</span>
+<span class="tag tag-sm tag-typescript">Updated Jan 22nd, 2023</span>
