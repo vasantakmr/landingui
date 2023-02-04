@@ -72,6 +72,7 @@ export * from './components/ui/scroll-up.svelte';
 export * from './components/ui/hi-mom.svelte';
 export * from './components/ui/landing-page-animation.svelte';
 export * from './components/ui/typewriter.svelte';
+export * from './components/ui/carousel.svelte';
 
 // Search
 export * from './components/search/algolia-search.svelte';
