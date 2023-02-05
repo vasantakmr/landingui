@@ -7,7 +7,7 @@ links:
     linkedin: https://www.linkedin.com/in/vasantakmr/
 ---
 
-Vasanta Kumar is a Software Developer at KLA Corporation and the creator of gurucodes.netlify.app . When not writing code, he is teaching programming and web development to freshers. 
+Vasanta Kumar is a Software Developer at KLA Corporation and the creator of gurucodes.dev . When not writing code, he is teaching programming and web development to freshers. 
 
 <!-- 
 youtube: https://www.youtube.com/@vasantakmr
