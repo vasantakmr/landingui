@@ -18,7 +18,13 @@ User contributions licensed under CC by-SA 3.0 with attribution required.
 
 Billing: Subscription fees for the PRO Membership are recurring payments (except where identified as otherwise, such as the Lifetime Membership and Single Course Purchases). The term may be monthly, quarterly, or annual, as described in the course of the transaction. Your subscription begins upon payment of the first installment of subscription fees. The subscription renews at the specified interval as applicable upon the payment of automatically recurring subscription fees. Monthly or annual fees are charged on the same day of the month that the subscription began. (For example, if a monthly subscription begins on the 29th, 30th, or 31st day of a month, then membership will renew on the last day of any month that doesn’t have that many days.)
 
-Cancellations and Refunds: You can cancel your PRO Membership at any time. If you purchase a subscription that automatically renews, you may cancel the subscription any time before the end of the current billing period, and the cancellation will take effect immediately.
+### Cancellations and Refunds:
+If, for any reason, You are not completely satisfied with a purchase We invite You to review our policy on refunds and returns. The following terms are applicable for any products that You purchased with Us.
+
+Your Order Cancellation Rights
+7 days refund window from the course commencement date on Masterclass (https://gurucodes.dev/masterclass/), no questions asked.
+
+You can cancel your PRO Membership at any time. If you purchase a subscription that automatically renews, you may cancel the subscription any time before the end of the current billing period, and the cancellation will take effect immediately.
 
 Lapsed Payment: If payment for a subscription fails, the user account will be downgraded and granted a 7-day grace period to update the payment source. If a successful payment is not made within 7 days, the membership will be fully canceled, and renewal will be subject to current prices.
 
