@@ -1,6 +1,6 @@
 ---
 title: Arrays
-description: Arrays
+description: Arrays interview questions
 weight: 11
 lastmod: 2022-11-20T10:23:30-09:00
 draft: false
