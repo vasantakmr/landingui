@@ -22,7 +22,7 @@ Billing: Subscription fees for the PRO Membership are recurring payments (except
 If, for any reason, You are not completely satisfied with a purchase We invite You to review our policy on refunds and returns. The following terms are applicable for any products that You purchased with Us.
 
 Your Order Cancellation Rights
-7 days refund window from the course commencement date on Masterclass (https://gurucodes.dev/masterclass/), no questions asked.
+7 days refund window from the course commencement date on Masterclass ( https://gurucodes.dev/masterclass ), no questions asked.
 
 You can cancel your PRO Membership at any time. If you purchase a subscription that automatically renews, you may cancel the subscription any time before the end of the current billing period, and the cancellation will take effect immediately.
 
@@ -30,17 +30,17 @@ Lapsed Payment: If payment for a subscription fails, the user account will be do
 
 ### Disclaimer
 
-The materials on the GuruCodes.io website are provided “as is”. GuruCodes.io makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, GuruCodes.io does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet website or otherwise relating to such materials or on any sites linked to this site.
+The materials on the GuruCodes.dev website are provided “as is”. GuruCodes.dev makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, GuruCodes.dev does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet website or otherwise relating to such materials or on any sites linked to this site.
 
 ### Limitations
 
-In no event shall gurucodes.io be liable for any damages (including, without limitation, damages for loss of data or profit or due to business interruption) arising out of the use or inability to use the materials on the GuruCodes.io Internet site, even if GuruCodes.io or a GuruCodes.io authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall gurucodes.dev be liable for any damages (including, without limitation, damages for loss of data or profit or due to business interruption) arising out of the use or inability to use the materials on the GuruCodes.dev Internet site, even if GuruCodes.dev or a GuruCodes.dev authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 ### Intellectual Property Rights
 
-GuruCodes.io is committed to protecting intellectual property rights. GuruCodes.io strictly follows DMCA guidelines for unauthorized use of copyrighted material. Any inquiries regarding the reproduction of the content on this site must be directed to the party holding the proprietary rights to the specified content. You shall not distribute, publish, transmit, modify, display or create derivative works from material obtained with this service.
-To file a notice of copyright infringement with GuruCodes.io, you will need to provide a written communication that follows the guidelines set in Section 512(c)(3) of the Digital Millennium Copyright Act (the “DMCA”).
+GuruCodes.dev is committed to protecting intellectual property rights. GuruCodes.dev strictly follows DMCA guidelines for unauthorized use of copyrighted material. Any inquiries regarding the reproduction of the content on this site must be directed to the party holding the proprietary rights to the specified content. You shall not distribute, publish, transmit, modify, display or create derivative works from material obtained with this service.
+To file a notice of copyright infringement with GuruCodes.dev, you will need to provide a written communication that follows the guidelines set in Section 512(c)(3) of the Digital Millennium Copyright Act (the “DMCA”).
 
 ### Governing Law
 
-Any claim relating to the GuruCodes.io website shall be governed by the laws of the State of Arizona without regard to its conflict of law provisions. General Terms and Conditions apply to the Use of a Web Site.
+Any claim relating to the GuruCodes.dev website shall be governed by the laws of the State of Arizona without regard to its conflict of law provisions. General Terms and Conditions apply to the Use of a Web Site.

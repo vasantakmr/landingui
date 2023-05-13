@@ -1,6 +1,6 @@
 ## GuruCodes
 
-The [GuruCodes PRO](https://gurucodes.io) course platform frontend built with Svelte, Tailwind, Hugo, Firebase, & Flamethrower. 
+The [GuruCodes PRO](https://gurucodes.dev) course platform frontend built with Svelte, Tailwind, Hugo, Firebase, & Flamethrower. 
 
 ## Contributing
 

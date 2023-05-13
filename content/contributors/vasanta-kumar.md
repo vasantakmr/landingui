@@ -22,4 +22,4 @@ youtube: https://www.youtube.com/@vasantakmr
 medium: https://medium.com/@vasantakmr
 twitter: https://twitter.com/vasantakmr
 github: https://github.com/vasantakmr
-portfolio: https://gurucodes.io -->
+portfolio: https://gurucodes.dev -->

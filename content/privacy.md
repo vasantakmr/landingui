@@ -6,9 +6,9 @@ draft: false
 
 ## Privacy Policy
 
-GuruCodes.io ("GuruCodes" "we" or "us") is committed to protecting your privacy. This Privacy Policy explains the methods and reasons we collect, use, disclose, transfer, and store your information. If you have any questions about the contents of this policy, don’t hesitate to contact us.
+GuruCodes.dev ("GuruCodes" "we" or "us") is committed to protecting your privacy. This Privacy Policy explains the methods and reasons we collect, use, disclose, transfer, and store your information. If you have any questions about the contents of this policy, don’t hesitate to contact us.
 
-If you do not consent to the collection and use of information from or about you in accordance with this Privacy Policy, then you are not permitted to use GuruCodes or any services provided on https://gurucodes.io.
+If you do not consent to the collection and use of information from or about you in accordance with this Privacy Policy, then you are not permitted to use GuruCodes or any services provided on https://gurucodes.dev.
 
 ### Applicable Law
 GuruCodes is headquartered in the India in the state of Andhra Pradesh. By viewing any content or otherwise using the services offered by GuruCodes, you consent to the transfer of information to the India to the extent applicable, and the collection, storage, and processing of information under Indian law.
@@ -34,4 +34,4 @@ GuruCodes is committed to complying with the Children’s Online Privacy Protect
 **Email Communication Opt-Out**: If you receive promotional emails from GuruCodes, you can unsubscribe by clicking the bottom Unsubscribe or Opt-Out link at the bottom of every email.
 
 ### Contact Us
-At GuruCodes, we believe our talented customer service staff will be able to resolve any issues you may have using the our services. If you would like additional information about this privacy policy, please visit our homepage at https://gurucodes.io.
+At GuruCodes, we believe our talented customer service staff will be able to resolve any issues you may have using the our services. If you would like additional information about this privacy policy, please visit our homepage at https://gurucodes.dev.

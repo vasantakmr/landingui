@@ -38,41 +38,14 @@
 					<video-player single="true"></video-player>
 				{{ end }}
 
-				<div class="bg-gray6 py-5 px-3 rounded-lg mb-4 flex justify-between mt-3">
-
-					{{ $author := .Site.GetPage (print "/contributors/"  (anchorize .Params.Author)) }}
-					{{ $authorImg := (print "/contributors/img/"  (anchorize .Params.Author) ".webp") }}
-					<a class="flex items-center no-underline" itemprop="author" name="{{ .Params.author }}" href="/contributors/{{ anchorize .Params.author }}/">
-						<img class="w-10 h-10 rounded-full block" src="{{ $authorImg }}" alt="{{ $author.Title }} avatar">
-						<span class="flex flex-col ml-2">
-							<span class="no-underline">By {{ title .Params.author }}</span>
-							<span class="text-xs text-gray4">Posted <time itemprop="dateModified">{{ .Lastmod.Format "Jan 2, 2006"}}</time>
-						</span>
-	
-					</a>
-
-					<!-- Tags -->
-					<span>
-						{{ range .Params.tags }}
-							<a href="/tags/{{ . }}"><span class="tag tag-{{ . }}">#{{ . }}</span></a>
-						{{ end }}
-
-						{{ with .Params.github }}
-							<a class="btn btn-transparent ml-4" href="{{ . }}">
-								Source Code
-							</a>
-						{{ end }}
-					</span>
-					
 				
-				</div>
 
 			</header>
 
 
 
 			<!-- Lesson content -->
-			<section class="prose dark:prose-invert max-w-full lesson-content" itemprop="articleBody">
+			<section class="prose dark:prose-invert max-w-full mt-6 lesson-content" itemprop="articleBody">
 				
 
 
@@ -85,6 +58,35 @@
 
 				
 			</section>
+
+			<div class="bg-gray6 py-5 px-3 rounded-lg mt-6 flex justify-between mt-3">
+
+				{{ $author := .Site.GetPage (print "/contributors/"  (anchorize .Params.Author)) }}
+				{{ $authorImg := (print "/contributors/img/"  (anchorize .Params.Author) ".webp") }}
+				<a class="flex items-center no-underline" itemprop="author" name="{{ .Params.author }}" href="/contributors/{{ anchorize .Params.author }}/">
+					<img class="w-10 h-10 rounded-full block" src="{{ $authorImg }}" alt="{{ $author.Title }} avatar">
+					<span class="flex flex-col ml-2">
+						<span class="no-underline">By {{ title .Params.author }}</span>
+						<span class="text-xs text-gray4">Posted <time itemprop="dateModified">{{ .Lastmod.Format "Jan 2, 2006"}}</time>
+					</span>
+
+				</a>
+
+				<!-- Tags -->
+				<span>
+					{{ range .Params.tags }}
+						<a href="/tags/{{ . }}"><span class="tag tag-{{ . }}">#{{ . }}</span></a>
+					{{ end }}
+
+					{{ with .Params.github }}
+						<a class="btn btn-transparent ml-4" href="{{ . }}">
+							Source Code
+						</a>
+					{{ end }}
+				</span>
+				
+			
+			</div>
 
 			{{ partial "comments" }}
 
