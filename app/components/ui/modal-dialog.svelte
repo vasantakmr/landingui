@@ -33,7 +33,7 @@
 
   .inner {
     /* md:min-w-[480px] md:max-w-3xl */
-    @apply w-3/4 md:w-auto scale-75 opacity-0 bg-gray6 px-8 py-12 shadow-4xl rounded-md mx-5 max-w-full  h-auto transition-all overflow-y-auto;
+    @apply w-3/4 md:w-auto scale-75 opacity-0 bg-gray-300 px-8 py-12 shadow-4xl rounded-md mx-5 max-w-full  h-auto transition-all overflow-y-auto;
   }
 
   .inner-show {

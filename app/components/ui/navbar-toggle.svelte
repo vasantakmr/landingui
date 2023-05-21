@@ -31,7 +31,7 @@
         @apply p-2 mr-4 flex justify-between;
     }
     .btn {
-        @apply border text-xs border-gray4 border-solid rounded-md p-1 px-2 cursor-pointer text-white hidden md:inline;
+        @apply border text-xs border-gray4 border-solid rounded-md p-1 px-2 cursor-pointer hidden md:inline;
         svg {
             @apply w-2 mx-1 relative top-[1px];
         }

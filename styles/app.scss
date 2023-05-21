@@ -25,7 +25,7 @@ html {
 
 body {
 	@apply dark:bg-gray7 dark:text-gray1;
-    background: linear-gradient(176deg, rgba(18,24,27,1) 50%, rgba(32,39,55,1) 100%);
+    background: linear-gradient(176deg, rgb(255, 255, 255) 50%, rgb(219, 224, 238) 100%);
     min-height: 100vh;
     background-attachment: fixed;
     @include scrollbar;

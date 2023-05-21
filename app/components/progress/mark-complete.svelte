@@ -74,7 +74,7 @@
     @apply w-5;
   }
   .msg {
-    @apply text-xs relative text-yellow-500;
+    @apply text-xs relative text-purple-500;
   }
   .pink {
     @apply text-pink-500;
@@ -83,7 +83,7 @@
     @apply text-purple-500;
   }
   .incomplete {
-    @apply fill-gray3 hover:fill-green-500;
+    @apply fill-gray-300 hover:fill-green-500;
   }
   .complete {
     @apply fill-green-500 text-green-500;

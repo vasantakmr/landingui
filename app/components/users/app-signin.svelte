@@ -17,6 +17,6 @@
 
 <style>
   .footer {
-    @apply text-sm text-gray4;
+    @apply text-sm text-black;
   }
 </style>

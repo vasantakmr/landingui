@@ -39,7 +39,8 @@ module.exports = {
       sky: colors.sky,
       violet: colors.violet,
       fuchsia: colors.fuchsia,
-      rose: colors.rose
+      rose: colors.rose,
+      gray: colors.gray,
     },
     extend: {
       backgroundImage: {
