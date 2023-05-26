@@ -74,15 +74,15 @@
 
 			</div>
 
-			<div class="ml-auto">
+			<div class="ml-auto flex items-center">
 				{{with .NextInSection}}
-					<a class="btn btn-transparent" href="{{.RelPermalink}}">👈</a>
+					<a class="btn btn-transparent" href="{{.RelPermalink}}">{{ partial ("svg/arrow_back.svg") }}</a>
 				{{end}}
 
-				<a class="btn btn-transparent" href="{{.Parent.RelPermalink}}">🏠</a>
+				<a class="btn btn-transparent" href="{{.Parent.RelPermalink}}">{{ partial ("svg/home.svg") }}</a>
 
 				{{with .PrevInSection}}
-					<a class="btn btn-transparent" href="{{.RelPermalink}}">👉</a>
+					<a class="btn btn-transparent" href="{{.RelPermalink}}">{{ partial ("svg/arrow_forward.svg") }}</a>
 				{{end}}
 			</div>
 

@@ -142,13 +142,13 @@
                 <ul class="grid-list pl-0">
                     {{ range $index, $page := .Pages }}
                     <a class="no-underline relative hover:scale-105 transition-transform" href="{{ .RelPermalink }}">
-                        <li class="max-w-sm h-full overflow-hidden shadow-3xl bg-gradient-to-bl from-blue-700 to-blue-800 p-6 rounded-xl">
+                        <li class="max-w-sm h-full overflow-hidden shadow-3xl bg-gradient-to-bl from-blue-50 to-blue-100 p-6 border-t-8 border-purple-400 rounded-xl">
                             <span class="absolute -top-2 -left-5 font-display leading-6 text-center text-3xl w-10 h-10 rounded-full p-2">
                                 {{/*  {{ printf "%02d" ( add $index 1 )}}  */}}
                                 {{ $page.Params.emoji }}
                             </span>
                             <h5><span class="gradient-text-fuchsia mb-0">{{ printf "%02d" ( add $index 1 )}}</span> {{ $page.Title }}</h5>
-                            <p class="text-gray2">{{ $page.Description }}</p>
+                            <p class="text-gray">{{ $page.Description }}</p>
                         </li>
                     </a>
                     {{ end }} 
