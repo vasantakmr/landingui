@@ -1,36 +1,32 @@
 ---
 lastmod: 2022-11-11T10:23:30-09:00
-title: Java Interview Questions
-description: 90% frequently asked interview questions and answers.
-weight: 1
+title: Javascript
+description: Build the web you want with Javascript.
+weight: 0
 type: courses
 author: Vasanta Kumar
 authorname: Vasanta Kumar
 authorbio: Software Developer at KLA Corporation
 vimeo: 775081844
 tags:
-  - java
-  - interview
-  - questions
+  - javascript
+  - web
+  - frontend
 
 stack:
-  - java
+  - js
 ---
 
-**The Java Interview Questions** is a interview-based course that aims to prepare yourself to clear Java Interviews on your first attempt.
-We assure that you will get here the 90% frequently asked interview questions and answers.
+**Javascript** is a crash-course that aims to prepare yourself to clear Javascript Interviews on your first attempt.
+We assure that you will build the web you want with Javascript.
 
 ## 🦄 What will I learn?
 
 The goal of this course is to provide you with a solid set of 200+ java question bank. Here's a quick summary of what you can expect to learn...
 
-- 🚀 JVM, JRE, JDK
-- 👨‍🎤 Object oriented principles
--  ⚛  Exception handling
-- 📊 Collection Framework
-- 💪 Multi-threading
-- 👨‍🚀 Access Modifiers
-- 📊 String handling
+- 🚀 Variables
+- 👨‍🎤 Strings
+-  ⚛  JSON
 - 🎭 Miscellaneous
 
 
@@ -57,4 +53,4 @@ This course is beginner level and expects knowledge on Java for you to be able t
 
 ### When was the course last updated?
 
-<span class="tag tag-sm tag-typescript">Updated Jan 22nd, 2023</span>
+<span class="tag tag-sm tag-typescript">Updated May 27nd, 2023</span>
