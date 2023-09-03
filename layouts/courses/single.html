@@ -71,34 +71,37 @@
 				<!-- <autoplay-toggle></autoplay-toggle> -->
 			<!-- {{/* <span class="text-xs relative bottom-1.5 mr-1">autoplay</span> */}}
 				<span class="text-xs relative bottom-1">autoplay</span> -->
-
+				<h1 class="mb-0">
+					{{ .Params.emoji }}
+					<span class="gradient-text-fuchsia inline-block mb-0">{{ .Title }}</span>
+				</h1>
 			</div>
 
 			<div class="ml-auto flex items-center">
 				{{with .NextInSection}}
-					<a class="btn btn-transparent" href="{{.RelPermalink}}">{{ partial ("svg/arrow_back.svg") }}</a>
+					<a class="btn p-1" href="{{.RelPermalink}}">Prev</a>
 				{{end}}
 
-				<a class="btn btn-transparent" href="{{.Parent.RelPermalink}}">{{ partial ("svg/home.svg") }}</a>
+				<!-- <a class="btn" href="{{.Parent.RelPermalink}}">{{ partial ("svg/home.svg") }}</a> -->
 
 				{{with .PrevInSection}}
-					<a class="btn btn-transparent" href="{{.RelPermalink}}">{{ partial ("svg/arrow_forward.svg") }}</a>
+					<a class="btn" href="{{.RelPermalink}}">Next</a>
 				{{end}}
 			</div>
 
-			<div class="ml-auto w-16 px-4 text-center">
+			<!-- <div class="ml-auto w-16 px-4 text-center">
 
 					<mark-complete slot="granted" quiz="{{ .Params.quiz }}" free="{{ .Params.free }}"></mark-complete>
-			</div>
+			</div> -->
 		</nav>
 
 
 
 		<header class="border-b-2 border-dashed border-gray6 mb-6">
-			<h1>
+			<!-- <h1>
 				{{ .Params.emoji }}
 				<span class="gradient-text-fuchsia inline-block mb-0">{{ .Title }}</span>
-			</h1>
+			</h1> -->
 			<p class="text-sm mt-1 text-gray4">{{ .Description }}</p>
 		</header>
 
