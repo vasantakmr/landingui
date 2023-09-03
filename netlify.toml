@@ -1,3 +1,11 @@
 [build]
   publish = "public"
   command = "rm -rf public && rm -rf functions && npm run build"
+
+
+[[redirects]]
+  from = "/*"
+  to = "/masterclass"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
